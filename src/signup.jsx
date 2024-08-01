@@ -111,7 +111,7 @@ export function Signup(){
                     </div>
                     <div>
                         <ReCAPTCHA
-                            sitekey="6LcfCBoqAAAAAKIt5e3aAPzK7L0BBEZ95FxSv7aH"
+                            sitekey="6Ld2hR0qAAAAAA4TsIo89ZVsyyEsLDRfReG47U6T"
                             onChange={onchange}
                             ref={captcharef}
                         />
