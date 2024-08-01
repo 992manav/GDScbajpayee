@@ -11,7 +11,7 @@ const sendMail = require('./sendMail');
 
 
 
-const googlesecret = "6LcfCBoqAAAAAN7pzJHXJrar6LNvzRr66xC_Uh_X";
+const googlesecret = "6Ld2hR0qAAAAADK4cGJZ1zPUIpo5FIhQzLtJKlSj";
 const app = express();
 
 mongoose.connect('mongodb+srv://adityabajpayee7:qpgNZTuia1cQTJc1@cluster0.m5acueb.mongodb.net/gdsc')
